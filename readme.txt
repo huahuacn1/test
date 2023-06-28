@@ -8,3 +8,4 @@ git has a mutable index called stage
 =======
 creat a new branch
 >>>>>>> feature1
+fuck fuck
